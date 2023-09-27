@@ -10,3 +10,4 @@ console.log('add new feature1')
 console.log('version1')
 console.log('forbidden fast forward')
 >>>>>>> dev
+console.log('current code not finished yet')
